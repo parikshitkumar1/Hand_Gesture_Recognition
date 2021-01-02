@@ -13,6 +13,10 @@ $ pip3 install -r requirements.txt
 $ python3 run_this.py
 ```
 ## Extras
+
+### Gesture Map:
+#### STANDARD PALM -> 1
+
 #### Model Accuracy:
 
 ![image](https://user-images.githubusercontent.com/52780573/103467236-12632f80-4d73-11eb-835b-1809d6b8cb45.png)
