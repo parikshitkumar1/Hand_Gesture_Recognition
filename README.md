@@ -16,6 +16,15 @@ $ python3 run_this.py
 
 ### Gesture Map:
 ##### STANDARD PALM -> 1
+##### 2-FINGER L -> 2
+##### STANDARD FIST -> 3
+##### MOVED PALM -> 4
+##### STANDARD THUMB -> 5
+##### STANDARD INDEX -> 6
+##### STANDARD OK -> 7
+##### MOVED PALM -> 8
+##### STANDARD C -> 9
+##### STANDARD DOWN -> 10
 
 #### Model Accuracy:
 
