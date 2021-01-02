@@ -13,6 +13,9 @@ $ pip3 install -r requirements.txt
 $ python3 run_this.py
 ```
 ## Extras
+### Data:
+
+https://www.kaggle.com/parikshitkumar/hand-gestures
 
 ### Gesture Map:
 ##### STANDARD PALM -> 1
