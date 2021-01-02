@@ -15,7 +15,7 @@ $ python3 run_this.py
 ## Extras
 
 ### Gesture Map:
-#### STANDARD PALM -> 1
+##### STANDARD PALM -> 1
 
 #### Model Accuracy:
 
