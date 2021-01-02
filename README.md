@@ -2,7 +2,7 @@
 # Hand Gesture Recognition
 
 ## Motivation
-To use a computer webcam to interpret hand gestures for various tasks, like sign langauge recognition
+To use a computer webcam to interpret hand gestures for various tasks, like sign langauge recognition and potentially even automation
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
