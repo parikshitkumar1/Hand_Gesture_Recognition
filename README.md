@@ -10,7 +10,7 @@ $ pip3 install -r requirements.txt
 ```
 ## To run
 ```python
-$ python3 run_this.py
+$ python3 run.py
 ```
 ## Extras
 ### Data:
