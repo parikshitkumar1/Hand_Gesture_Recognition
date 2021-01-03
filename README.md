@@ -15,7 +15,7 @@ $ python3 run.py
 ## Extras
 ### Data:
 
-https://www.kaggle.com/parikshitkumar/hand-gestures
+#### https://www.kaggle.com/parikshitkumar/hand-gestures
 
 ### Gesture Map:
 ##### STANDARD PALM -> 1
